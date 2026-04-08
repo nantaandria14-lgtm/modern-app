@@ -1,1 +1,1 @@
-import React from 'react'; const App = () => { return <h1>Hello Modern App</h1>; }; export default App;
+// Full App.tsx content goes here.
