@@ -1,1 +1,1 @@
-{ "compilerOptions": { "target": "es5", "module": "commonjs" } }
+{ "compilerOptions": { "target": "esnext", "module": "esnext", "jsx": "react-jsx", "strict": true, "esModuleInterop": true, "skipLibCheck": true, "forceConsistentCasingInFileNames": true }}

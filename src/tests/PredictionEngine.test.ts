@@ -1,0 +1,1 @@
+import { predict } from '../utils/PredictionEngine'; test('predict function', () => { expect(predict(2)).toBe(4); });

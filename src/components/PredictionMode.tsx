@@ -1,0 +1,1 @@
+import React from 'react'; const PredictionMode = () => { return <div>Prediction Mode</div>; }; export default PredictionMode;

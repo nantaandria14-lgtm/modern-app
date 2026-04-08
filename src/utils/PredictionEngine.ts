@@ -1,0 +1,1 @@
+export const predict = (input) => { return input * 2; };

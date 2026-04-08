@@ -1,2 +1,2 @@
-# modern-app
-Application moderne avec interface utilisateur complète et système de prédiction SHA256
+# Modern App
+This is a modern app using Vite, React, and Tailwind CSS.
